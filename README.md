@@ -1,7 +1,7 @@
 # Online Shopping Database
 <br>
 
-Design and create online shopping database using MySQL
+Designed and created online shopping database using MySQL
 
 [Demo Video](https://drive.google.com/file/d/1nxMRmAb6bXj0j8zTcyt0JMhpf8qoIlBF/view?usp=sharing)
 
